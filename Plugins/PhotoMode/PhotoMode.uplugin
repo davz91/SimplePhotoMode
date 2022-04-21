@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PhotoMode",
+	"Description": "Simple Photo Mode",
+	"Category": "Other",
+	"CreatedBy": "Davz",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PhotoMode",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
